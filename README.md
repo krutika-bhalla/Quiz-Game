@@ -1,2 +1,2 @@
 # Quiz-Game
-A simple game built using python
+A simple trivia built using python
